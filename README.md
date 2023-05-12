@@ -5,7 +5,7 @@
 
 ### Найденные баги заведены через [Issues](https://github.com/SeniorTe/TestTask/issues)
 
-### Предложения по улучшению находятся в файле []()
+### Предложения по улучшению находятся в файле [Summary](https://github.com/SeniorTe/TestTask/blob/main/Summary.md)
 
 ## Предусловия для запуска тестируемой программы: 
 - Установить на компьютер последнюю версию Java. [Инструкиця и файл для установки.](https://www.java.com/ru/download/manual.jsp)
